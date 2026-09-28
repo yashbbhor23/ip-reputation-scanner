@@ -34,5 +34,5 @@ The tool accepts a text file containing IP addresses, validates the entries, que
 Clone the repository:
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/yashbbhor23/ip-reputation-scanner.git
 cd ip-reputation-scanner
